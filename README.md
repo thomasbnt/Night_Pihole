@@ -15,6 +15,8 @@ cd /var/www/html/admin/style/vendor/
 sudo git clone https://github.com/thomasbnt/Night_PiHole.git
 sudo rm -f skin-blue.min.css
 sudo cp Night_PiHole/skin-blue.min.css .
+sudo rm -f AdminLTE.min.css
+sudo cp Night_PiHole/AdminLTE.min.css .
 sudo rm -rf Night_PiHole
 ```
 Don't forget the trailing " ." on the cp line (it means copy to current directory).
