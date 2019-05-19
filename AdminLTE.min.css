@@ -18,7 +18,8 @@ body {
  font-family:'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
  font-weight:400;
  overflow-x:hidden;
- overflow-y:auto
+ overflow-y:auto;
+ color: white;
 }
 .wrapper {
  min-height:100%;
@@ -1182,7 +1183,8 @@ a:focus {
 .form-control {
  border-radius:0;
  box-shadow:none;
- border-color:#d2d6de
+ border-color:#1a2226;
+ background-color: #333638;
 }
 .form-control:focus {
  border-color:#3c8dbc;
