@@ -1,3 +1,10 @@
+[![Support me on Patreon](https://flat.badgen.net/badge//Support%20me%20on%20Patreon/F96854?icon=patreon)](https://www.patreon.com/thomasbnt)
+[![Follow me on Twitter](https://flat.badgen.net/badge//Follow%20me%20on%20Twitter/33A1F2?icon=twitter)](https://twitter.com/Hyprimort)
+[![LICENSE](https://flat.badgen.net/github/license/thomasbnt/Night_PiHole)](LICENSE)
+[![Voir les Releases](https://flat.badgen.net/github/release/thomasbnt/Night_PiHole)](https://github.com/thomasbnt/Night_PiHole/releases)
+![Last commit](https://flat.badgen.net/github/last-commit/thomasbnt/Night_PiHole)
+
+
 # Night Pi Hole
 Custom dark theme CSS for pi-hole to replace skin-blue AdminLTE theme.
 
