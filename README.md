@@ -1,3 +1,8 @@
+[![Discord Server](https://flat.badgen.net/badge/Join/Discord%20server/7289DA?icon=discord)](https://www.thomasbnt.fr/discord/?utm_source=link_github?utm_medium=github)
+[![Support me on Patreon](https://flat.badgen.net/badge/Be/donator/F96854?icon=patreon)](https://www.patreon.com/thomasbnt)
+[![Follow me on Twitter](https://flat.badgen.net/badge/Follow/Me/33A1F2?icon=twitter)](https://twitter.com/Hyprimort)
+[![MIT](https://flat.badgen.net/github/license/thomasbnt/Night_PiHole)](LICENSE)
+
 # Night Pi Hole
 Custom dark theme CSS for pi-hole to replace skin-blue AdminLTE theme.
 
