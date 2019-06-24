@@ -54,4 +54,16 @@ color: white;
 button, input, select, textarea {
 background-color: #151d20;
 }
-
+.panel-default > .panel-heading {
+color: #fff;
+background-color: #222d32;
+border-color: transparent;
+}
+.panel-default {
+border-color: #514a4a;
+background-color: #222d32;
+}
+.form-control {
+background-color: #333638;
+color: white;
+}
