@@ -6,7 +6,7 @@
 # Night Pi Hole
 Custom dark theme CSS for pi-hole to replace skin-blue AdminLTE theme.
 
-❗ Created fr [PiHole](https://github.com/pi-hole/pi-hole).
+❗ Created for [PiHole](https://github.com/pi-hole/pi-hole).
 
 ![Screenshot Preview Dashboard](preview_dashboard.png)
 
