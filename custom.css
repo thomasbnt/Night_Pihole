@@ -68,5 +68,9 @@ background-color: #333638;
 color: white;
 }
 .modal-content {
-color: black;
+background-color: #171f23;
 }
+.btn-default {
+color: black !important;
+}
+
