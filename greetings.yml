@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Hey, thanks for opening your first issue! 🙂 Be sure to check out the contribution guidelines. Thanks!' ' first issue'
+        pr-message: 'Hey, congratulations on your first pull request for Night_PiHole ! '' first pr'
