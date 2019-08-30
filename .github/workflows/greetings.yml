@@ -11,3 +11,4 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Hey, thanks for opening your first issue! 🙂 Be sure to check out the contribution guidelines. Thanks!'' first issue'
         pr-message: 'Hey, congratulations on your first pull request for Night_PiHole ! '' first pr'
+
