@@ -43,6 +43,7 @@ body {
 }
 .layout-boxed {
  background:url('../../img/boxed-bg.jpg') repeat fixed
+ background:#1D2226;
 }
 .content-wrapper,
 .right-side,
