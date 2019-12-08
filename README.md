@@ -18,7 +18,7 @@ Type the following commands into SSH, line by line.
 ```bash
 cd /var/www/html/admin/style/vendor/
 sudo git clone https://github.com/thomasbnt/Night_Pihole.git
-cd Night_PiHole
+cd Night_Pihole
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
