@@ -18,11 +18,36 @@ echo ""
 echo -n "# Do you want to install this theme? Y/N or CTRL+C :  "
 read answer
 if [ "$answer" = "y" ] || [ "$answer" = "Y"  ] || [ "$answer" = "Yes"  ] || [ "$answer" = "yes"  ] || [ "$answer" = "YES" ]; then
+cd /var/www/html/admin/style/vendor
 rm -f ../skin-blue.min.css
 cp skin-blue.min.css ../
 rm -f ../AdminLTE.min.css
 cp AdminLTE.min.css ../
 cp custom.css ../
+cd /var/www/html/admin/scripts/pi-hole/js
+rm -f ../settings.js
+cp settings.js ../
+rm -f ../network.js
+cp network.js ../
+cd /var/www/html/admin
+rm -f ../settings.php
+rm -f ../queries.php
+rm -f ../db_queries.php
+cp settings.php ../
+cp queries.php ../
+cp db_queries.php ../
+
+
+echo -n "# Do you have arevindh's Pi-hole Speedtest installed? Y/N"
+if [ "$answer" = "y" ] || [ "$answer" = "Y"  ] || [ "$answer" = "Yes"  ] || [ "$answer" = "yes"  ] || [ "$answer" = "YES" ]; then
+#code to copy and prepare speedtest files
+cd /var/www/html/admin
+rm -f ../speedtest.php
+cp speedtest.php ../
+cd /var/www/html/admin/scripts/pi-hole/js
+rm -f ../speedresults.js
+cp speedresults.js ../
+fi
 echo "#Finished, press Ctrl + F5 or Command-Shift-R on your computer to change to the new theme ! "
 
 elif [ "$answer" = "n" ] || [ "$answer" = "N" ] || [ "$answer" = "No"  ] || [ "$answer" = "no"  ] || [ "$answer" = "NO" ]; then
