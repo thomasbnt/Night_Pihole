@@ -1,0 +1,88 @@
+a {
+color: #e8543d;
+}
+.list-group-item {
+background-color: #1d2023 !important;
+border: 1px solid #525252 !important;
+}
+.list-group-item:hover,
+.skin-blue .list-group-item:hover {
+background: #151719 !important;
+}
+.nav-tabs-custom {
+background-color: transparent !important;
+}
+.nav-tabs-custom>.nav-tabs>li.active {
+border-top-color: #eb472e !important;
+}
+.nav-tabs-custom>.nav-tabs>li>a, .nav-tabs-custom>.nav-tabs>li>a:hover {
+color: white !important;
+}
+.nav-tabs-custom>.nav-tabs>li.active>a:hover {
+color: #dedede !important;
+}
+.nav-tabs-custom>.nav-tabs>li.active>a {
+color: white !important;
+background-color: #151d20 !important;
+}
+.nav-tabs-custom>.tab-content {
+background-color: #151c1f !important;
+}
+/*
+this part of the stylesheet creates transparent alternating stripes in tables but is not wanted here
+*/
+/*
+.table-striped>tbody>tr:nth-of-type(n) {
+background-color: transparent !important;
+}
+*/
+
+.settings {
+.table-striped>tbody>tr:nth-of-type(n) {
+background-color: transparent !important;
+}
+}
+
+.box-footer {
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+border-bottom-right-radius: 0px;
+border-bottom-left-radius: 0px;
+border-top: 1px solid #0a0c0c;
+padding: 10px;
+background-color: #1a2327;
+}
+.box-body {
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+border-bottom-right-radius: 0px;
+border-bottom-left-radius: 0px;
+padding: 10px;
+background-color: #1a2226;
+}
+.input-group .form-control:last-child, .input-group-addon:last-child, .input-group-btn:first-child>.btn-group:not(:first-child)>.btn, .input-group-btn:first-child>.btn:not(:first-child), .input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group>.btn, .input-group-btn:last-child>.dropdown-toggle {
+color: white;
+}
+button, input, select, textarea {
+background-color: #151d20;
+}
+.panel-default > .panel-heading {
+color: #fff;
+background-color: #222d32;
+border-color: transparent;
+}
+.panel-default {
+border-color: #514a4a;
+background-color: #222d32;
+}
+.form-control {
+background-color: #333638;
+color: white;
+}
+.modal-content {
+background-color: #171f23;
+}
+.btn-default {
+color: black !important;
+}
+
