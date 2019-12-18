@@ -40,6 +40,7 @@ rm -f ../network.php
 cp network.php ../
 
 echo -n "# Do you have arevindh's Pi-hole Speedtest installed? Y/N"
+read answer
 if [ "$answer" = "y" ] || [ "$answer" = "Y"  ] || [ "$answer" = "Yes"  ] || [ "$answer" = "yes"  ] || [ "$answer" = "YES" ]; then
 #code to copy and prepare speedtest files
 cd /var/www/html/admin
