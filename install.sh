@@ -15,7 +15,7 @@ echo "#          Repository : https://github.com/thomasbnt/Night_PiHole/        
 echo "#                                                                              #"
 echo "################################################################################"
 echo ""
-echo -n "# Do you want to install this theme? Y/N or CTRL+C :  "
+echo -n "# Do you want to install this theme? Y/N or CTRL+C: "
 read answer
 if [ "$answer" = "y" ] || [ "$answer" = "Y"  ] || [ "$answer" = "Yes"  ] || [ "$answer" = "yes"  ] || [ "$answer" = "YES" ]; then
 cd /var/www/html/admin/style/vendor
@@ -39,7 +39,7 @@ cp db_queries.php ../
 rm -f ../network.php
 cp network.php ../
 
-echo -n "# Do you have arevindh's Pi-hole Speedtest installed? Y/N"
+echo -n "# Do you have arevindh's Pi-hole Speedtest installed? Y/N: "
 read answer
 if [ "$answer" = "y" ] || [ "$answer" = "Y"  ] || [ "$answer" = "Yes"  ] || [ "$answer" = "yes"  ] || [ "$answer" = "YES" ]; then
 #code to copy and prepare speedtest files
