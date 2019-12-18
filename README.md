@@ -6,6 +6,8 @@
 # Night Pi-hole
 Custom dark theme CSS for Pi-hole to replace skin-blue AdminLTE theme.
 
+Includes files to support [arevindh's Pi-hole Speedtest](https://github.com/arevindh/pihole-speedtest).
+
 ❗ Created for [Pi-hole](https://github.com/pi-hole/pi-hole).
 
 ![Screenshot Preview Dashboard](preview_dashboard.png)
@@ -27,7 +29,7 @@ sudo ./install.sh
 Type the following commands into SSH, line by line.
 
 ```
-cd /var/www/html/admin/style/vendor/
+cd /var/www/html/admin/
 sudo git reset --hard
 ```
 
