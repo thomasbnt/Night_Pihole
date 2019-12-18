@@ -9,11 +9,9 @@ fi
 clear
 echo "################################################################################"
 echo "#                                                                              #"
-echo "#                             Night PiHole - Dark theme                        #"
+echo "#                         Night PiHole - Dark theme                            #"
 echo "#                                                                              #"
 echo "#          Repository : https://github.com/thomasbnt/Night_PiHole/             #"
-echo "#                                                                              #"
-echo "#                                                                              #"
 echo "#                                                                              #"
 echo "################################################################################"
 echo ""
@@ -25,7 +23,7 @@ cp skin-blue.min.css ../
 rm -f ../AdminLTE.min.css
 cp AdminLTE.min.css ../
 cp custom.css ../
-echo "#Finished, press CTRL + F5 on your computer for charging the new theme ! "
+echo "#Finished, press Ctrl + F5 or Command-Shift-R on your computer to change to the new theme ! "
 
 elif [ "$answer" = "n" ] || [ "$answer" = "N" ] || [ "$answer" = "No"  ] || [ "$answer" = "no"  ] || [ "$answer" = "NO" ]; then
     echo ""
