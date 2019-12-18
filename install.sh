@@ -31,12 +31,13 @@ rm -f ../network.js
 cp network.js ../
 cd /var/www/html/admin
 rm -f ../settings.php
-rm -f ../queries.php
-rm -f ../db_queries.php
 cp settings.php ../
+rm -f ../queries.php
 cp queries.php ../
+rm -f ../db_queries.php
 cp db_queries.php ../
-
+rm -f ../network.php
+cp network.php ../
 
 echo -n "# Do you have arevindh's Pi-hole Speedtest installed? Y/N"
 if [ "$answer" = "y" ] || [ "$answer" = "Y"  ] || [ "$answer" = "Yes"  ] || [ "$answer" = "yes"  ] || [ "$answer" = "YES" ]; then
