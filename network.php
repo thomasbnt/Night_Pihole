@@ -53,13 +53,6 @@ $token = $_SESSION['token'];
             <label>Background color: Last query from this device seen ...</label>
         <table width="100%">
           <tr style="text-align: center;">
-           /* Old colors used in light mode 
-	   <td style="background: #E7FFDE;" width="15%">just now</td>
-            <td style="background-image: linear-gradient(to right, #E7FFDE 0%, #FFFFDF 100%)" width="30%"><center>... to ...</center></td>
-            <td style="background: #FFFFDF;" width="15%">24 hours ago</td>
-            <td style="background: #FFEDD9;" width="20%">&gt; 24 hours ago</td>
-            <td style="background: #FFBFAA;" width="20%">Device does not use Pi-hole</td>
-	   */
 	    <td style="background: #3D5534;" width="15%">just now</td>
             <td style="background-image: linear-gradient(to right, #3D5534 0%, #555535 100%)" width="30%"><center>... to ...</center></td>
             <td style="background: #555535;" width="15%">24 hours ago</td>
