@@ -48,7 +48,7 @@ cd /var/www/html/admin/scripts/pi-hole/js
 rm -f /var/www/html/admin/scripts/pi-hole/js/speedresults.js
 cp /var/www/html/admin/style/vendor/Night_Pi-hole/speedresults.js /var/www/html/admin/scripts/pi-hole/js/
 fi
-echo "#Finished, press Ctrl + F5 or Command-Shift-R on your computer to change to the new theme ! "
+echo "#Finished, press Ctrl + F5 or Option-Command-R on your computer to change to the new theme ! "
 
 elif [ "$answer" = "n" ] || [ "$answer" = "N" ] || [ "$answer" = "No"  ] || [ "$answer" = "no"  ] || [ "$answer" = "NO" ]; then
     echo ""
