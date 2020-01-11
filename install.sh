@@ -9,7 +9,7 @@ fi
 clear
 echo "################################################################################"
 echo "#                                                                              #"
-echo "#                         Night Pi-Hole - Dark theme                            #"
+echo "#                         Night PiHole - Dark theme                            #"
 echo "#                                                                              #"
 echo "#          Repository : https://github.com/thomasbnt/Night_Pi-Hole/             #"
 echo "#                                                                              #"
