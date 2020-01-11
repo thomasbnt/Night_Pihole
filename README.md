@@ -27,7 +27,7 @@ sudo ./install.sh
 Type the following commands into SSH, line by line.
 
 ```
-cd /var/www/html/admin/style/vendor/
+cd /var/www/html/admin/
 sudo git reset --hard
 ```
 

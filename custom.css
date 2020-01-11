@@ -28,9 +28,21 @@ background-color: #151d20 !important;
 .nav-tabs-custom>.tab-content {
 background-color: #151c1f !important;
 }
-.table-striped>tbody>tr:nth-of-type(odd) {
+/*
+this part of the stylesheet creates transparent alternating stripes in tables but is not wanted here
+*/
+/*
+.table-striped>tbody>tr:nth-of-type(n) {
 background-color: transparent !important;
 }
+*/
+
+.settings {
+.table-striped>tbody>tr:nth-of-type(n) {
+background-color: transparent !important;
+}
+}
+
 .box-footer {
 border-top-left-radius: 0;
 border-top-right-radius: 0;
