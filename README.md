@@ -1,5 +1,5 @@
 [![Discord Server](https://flat.badgen.net/badge/Join/Discord%20server/7289DA?icon=discord)](https://thomasbnt.fr/discord/?utm_source=link_github?utm_medium=github)
-[![Support me on Patreon](https://flat.badgen.net/badge/Be/donator/F96854?icon=patreon)](https://www.patreon.com/thomasbnt)
+[![Support me on BMC](https://img.shields.io/badge/Support%20me%20on%20-BuyMeaCoffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/thomasbnt)
 [![Follow me on Twitter](https://flat.badgen.net/badge/Follow/Me/33A1F2?icon=twitter)](https://twitter.com/Hyprimort)
 [![MIT](https://flat.badgen.net/github/license/thomasbnt/Night_Pihole)](LICENSE)
 
