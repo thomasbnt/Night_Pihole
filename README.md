@@ -1,7 +1,6 @@
-[![Discord Server](https://flat.badgen.net/badge/Join/Discord%20server/7289DA?icon=discord)](https://thomasbnt.fr/discord/?utm_source=link_github?utm_medium=github)
-[![Support me on BMC](https://img.shields.io/badge/Support%20me%20on%20-BuyMeaCoffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/thomasbnt)
-[![Follow me on Twitter](https://flat.badgen.net/badge/Follow/Me/33A1F2?icon=twitter)](https://twitter.com/Hyprimort)
-[![MIT](https://flat.badgen.net/github/license/thomasbnt/Night_Pihole)](LICENSE)
+[![Discord](https://img.shields.io/discord/367753345575944221?color=%237289DA&label=Join%20us&logo=Discord&logoColor=white&style=for-the-badge)](https://thomasbnt.fr/discord)
+[![Support me on BMC](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Hyprimort?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Hyprimort)
 
 # Night Pi-hole
 Custom dark theme CSS for Pi-hole to replace skin-blue AdminLTE theme.
