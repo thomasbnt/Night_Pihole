@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/discord/367753345575944221?color=%237289DA&label=Join%20us&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/9gcxwVY)
 [![Support me on BMC](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Hyprimort?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Hyprimort)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_)
 
 # Night Pi-hole
 Custom dark theme CSS for Pi-hole to replace skin-blue AdminLTE theme.
